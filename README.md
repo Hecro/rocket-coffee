@@ -6,7 +6,10 @@ Esse projeto consiste em um cardápio digital, ele foi desenvolvido alinhado a u
 neste mesmo repositório. :)
 
 # Desktop/Web
-![image](https://user-images.githubusercontent.com/90655096/183556452-5d797d50-6823-49c1-b58d-a7aa2914c30a.png) # Mobile ![image](https://user-images.githubusercontent.com/90655096/183556666-30ef2ab8-9414-40fb-9a03-752d1df2b6e1.png)
+![image](https://user-images.githubusercontent.com/90655096/183556452-5d797d50-6823-49c1-b58d-a7aa2914c30a.png) 
+
+# Mobile 
+![image](https://user-images.githubusercontent.com/90655096/183556666-30ef2ab8-9414-40fb-9a03-752d1df2b6e1.png)
 
 
 # Tecnologias Utilizadas 
