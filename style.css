@@ -1,5 +1,5 @@
 :root {
-    --backgrond: #FFEDD5;
+    --background: #FFEDD5;
     --text-color: #2D2C2A;
     --span-color: #995000;
     --section-color: #FED7AA;
@@ -12,7 +12,7 @@
   }
   
   body {
-      background: var(--backgrond);
+      background: var(--background);
       color: var(--text-color);
   }
   
