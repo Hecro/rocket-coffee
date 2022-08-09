@@ -9,7 +9,7 @@ neste mesmo repositório. :)
 ![image](https://user-images.githubusercontent.com/90655096/183556452-5d797d50-6823-49c1-b58d-a7aa2914c30a.png) 
 
 # Mobile 
-![image](https://user-images.githubusercontent.com/90655096/183556666-30ef2ab8-9414-40fb-9a03-752d1df2b6e1.png)
+![183556666-30ef2ab8-9414-40fb-9a03-752d1df2b6e1 (1)](https://user-images.githubusercontent.com/90655096/183557978-5503b776-26bf-44d6-a64e-0a77feda5641.png)
 
 
 # Tecnologias Utilizadas 
